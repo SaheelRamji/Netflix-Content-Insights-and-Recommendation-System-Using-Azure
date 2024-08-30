@@ -159,5 +159,4 @@ def get_recommendations_new(title, cosine_sim=cosine_sim):
 
 <img width="966" alt="Screenshot 2023-09-14 at 9 38 12 PM" src="https://github.com/metal0bird/Azure_data_engineering_project/assets/71923741/edcb8503-7f3d-456e-9304-fdf74d968569">
 
-Visit - [My blog](https://dev.to/metal0bird/end-to-end-netflix-data-analytics-project-using-microsoft-azure-tools-45bd)
 
